@@ -10,7 +10,6 @@ This project demonstrates my hands-on skills with computer hardware by disassemb
 - **CPU**
 - **PSU**: Dell Inc
 - **RAM CARD**: ADATA 4GB 2RX8 PC3
-- **[Other components you’ve identified]**
 
 ## What I Learned
 - Understanding of laptop internals.
